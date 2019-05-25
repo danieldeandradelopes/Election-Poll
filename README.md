@@ -1,3 +1,3 @@
-# Pesquisa-Eleitoral
+# Election-Pool
 
-Nesse projeto eu criei uma pesquisa eleitoral não oficial, pesquisa com os candidados de minha cidade.
+In this project i develop a Election Poll, in elections time for mayor in my city, i'm using PHP, HTML, CSS, Bootstrap and MYSQL.
